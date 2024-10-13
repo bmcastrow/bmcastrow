@@ -4,4 +4,4 @@
 
 🤖 I am a **Machine Learning** & **Deep Learning** Enthusiast with a background in 🧬 Life Sciences and Healthcare 💊
 
-🛠️ Some call me a Biomedical Engineer, but I like to think that i am a Swiss Army Knife 🛠️
+🛠️ Some call me a Biomedical Engineer, but I like to think of myself as a **Swiss Army Knife** 🛠️
